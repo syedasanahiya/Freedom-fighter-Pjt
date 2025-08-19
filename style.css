@@ -1,0 +1,27 @@
+.img-left {
+    float: left;
+    width: 200px;
+    margin-right:10px 20px 10px 0;
+    
+}
+
+.img-right {
+    float: right;
+    width: 250px;
+    margin-left: 10px 0 10px 20px;
+}
+
+.img-heading{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+.clearfix{
+    clear: both;
+}
+p { 
+    font-family: sans-serif;
+}
+.h2 {
+    color:red;
+}
